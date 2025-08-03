@@ -1,5 +1,6 @@
+
 {
-  "homepage": "https://developerfolio.js.org/",
+"homepage": "https://peravalivedasai.github.io/portfolio",
   "name": "developerfolio",
   "version": "0.1.0",
   "private": true,
@@ -29,6 +30,12 @@
     "format": "prettier --write \"./**/*.{js,css,json,scss}\"",
     "check-format": "prettier -c \"./**/*.{js,css,json,scss}\""
   },
+
+
+
+
+
+
   "eslintConfig": {
     "extends": "react-app"
   },
