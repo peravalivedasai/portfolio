@@ -1,4 +1,3 @@
-import React from "react";
 import "./App.scss";
 import Main from "./containers/Main";
 
@@ -8,7 +7,7 @@ function App() {
       <Main />
     </div>
   );
-  
 }
 
 export default App;
+ppp
